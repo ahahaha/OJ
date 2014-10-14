@@ -1,0 +1,9 @@
+tree posterorder traversal
+
+iterative solution:
+use stack
+
+java:
+HashSet  contains() add()
+Stack  empty() push() pop()
+ArrayList  add()
