@@ -7,3 +7,8 @@ java:
 HashSet  contains() add()
 Stack  empty() push() pop()
 ArrayList  add()
+
+c++:
+vector  push_back()
+set  insert() find() end()
+stack  top() pop() push()
